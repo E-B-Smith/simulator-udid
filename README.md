@@ -13,3 +13,7 @@ usage: simulator-udid [-hvV] [ -n <simulator-name> -s <simulator-system> ] | -d 
     -v --verbose   Verbose.
     -V --version   Show version.
 ```
+
+## Example
+
+![Example](./Documentation/Example.png)
