@@ -2,6 +2,8 @@
 
 Returns an iOS simulator udid given a system name and OS version.
 
+[Contribute at https://github.com/E-B-Smith/simulator-udid!](https://github.com/E-B-Smith/simulator-udid)
+
 ```
 usage: simulator-udid [-hvV] [ -n <simulator-name> -s <simulator-system> ] | -d <simulator-device> ]
 
