@@ -1,3 +1,5 @@
+[![MIT licensed](https://img.shields.io/badge/license-MIT-orange.svg)](https://raw.githubusercontent.com/hyperium/hyper/master/LICENSE)
+
 # simulator-udid
 
 Returns an iOS simulator udid given a system name and OS version.
