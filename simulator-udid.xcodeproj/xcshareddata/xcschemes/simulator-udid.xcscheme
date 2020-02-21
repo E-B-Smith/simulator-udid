@@ -86,8 +86,8 @@
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "-d &quot;name=iPhone 6s, OS=12.2&quot;"
-            isEnabled = "NO">
+            argument = "-d &quot;name=iPhone 6s, OS=12.2.2&quot;"
+            isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
             argument = "--list"
@@ -95,7 +95,7 @@
          </CommandLineArgument>
          <CommandLineArgument
             argument = "-n &quot;iPhone 6s&quot; -s 12.2"
-            isEnabled = "YES">
+            isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
             argument = "-vvvv"

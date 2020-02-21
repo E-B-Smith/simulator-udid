@@ -64,6 +64,12 @@
         }
     } while (c != -1 && !options.badOptionsError);
 
+    if (!options.badOptionsError) {
+        __auto_type parts = [options.simulatorVersion componentsSeparatedByString:@"."];
+        if (parts.count >= 2)
+            options.simulatorVersion = [NSString stringWithFormat:@"%@.%@", parts[0], parts[1]];
+    }
+
     return options;
 }
 
